@@ -1,4 +1,4 @@
-# 🌐 AjunaVerse MVP
+# 🌐 BET-POKER
 
 <p align="center">
   <img src="./client/public/hero-banner.png" alt="AjunaVerse Banner" width="100%" />
